@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArmandJas
 - 👀 I’m interested in programming, gaming.
 - 🌱 I’m currently learning Software Engineering
-- 😴 I’m sleeping
+- 😴 I’m sleepy
 
 <!---
 ArmandJas/ArmandJas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
