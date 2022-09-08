@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArmandJas
-- 👀 I’m interested in programming, gaming.
+- 👀 I’m
 - 🌱 I’m currently learning Software Engineering
 - 😴 I’m sleepy
 
