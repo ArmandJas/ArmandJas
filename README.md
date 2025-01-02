@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ArmandJas
 - 🌱 I’m currently learning Software Engineering
-- 👀 I’m
 
 
 <!---
